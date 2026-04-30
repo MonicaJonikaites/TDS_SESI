@@ -4,26 +4,14 @@ const numeros = []
 // Inseie 10 numeros utilizando a funçao .push()
 // e imprimir na tela utilizando o formato: "Numero: x"
 
-numeros.push(1);
-numeros.push(2);
-numeros.push(3);
-numeros.push(4);
-numeros.push(5);
-numeros.push(6);
-numeros.push(7);
-numeros.push(8);
-numeros.push(9);
-numeros.push(10);
-
-
-console.log(numeros [0])
-console.log(numeros [1]);
-console.log(numeros [2]);
-console.log(numeros [3]);
-console.log(numeros [4]);
-console.log(numeros [5]);
-console.log(numeros [6]);
-console.log(numeros [7]);
-console.log(numeros [8]);
-console.log(numeros [9]);
-console.log(numeros [10]);
+numeros.push(1, 2, 3, 4, 5, 6, 7, 8, 9, 10);
+console.log("Número: " + numeros[0]);
+console.log("Número: " + numeros[1]);
+console.log("Número: " + numeros[2]);
+console.log("Número: " + numeros[3]);
+console.log("Número: " + numeros[4]);
+console.log("Número: " + numeros[5]);
+console.log("Número: " + numeros[6]);
+console.log("Número: " + numeros[7]);
+console.log("Número: " + numeros[8]);
+console.log("Número: " + numeros[9]);
