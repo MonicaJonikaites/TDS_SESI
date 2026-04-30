@@ -12,3 +12,5 @@ if (media >= 7.5) {
 } else {
     console.log("Reprovado");
 }
+
+console.log(media);
