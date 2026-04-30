@@ -7,3 +7,4 @@ console.log(typeof numeros);
 numeros.push(40, 50); //adicionar no fim do array
 numeros[4] = 50;
 console.log(numeros);
+console.log(numeros.length);
