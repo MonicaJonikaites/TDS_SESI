@@ -1,6 +1,6 @@
 var nome = "Caneta";
-var quantidade = 10
-;var preco = 6.5;
+var quantidade = 10;
+var preco = 6.5;
 var imposto = 2.2;
 var precoFinal = preco = imposto;
 
